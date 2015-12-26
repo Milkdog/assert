@@ -1,7 +1,8 @@
 {
-    "name": "beberlei/assert",
-    "description": "Thin assertion library for input validation in business models.",
+    "name": "milkdog/assert",
+    "description": "Thin assertion library for input validation in business models. Slight tweaks from beberlei/assert",
     "authors": [
+        {"name": "Chris Mielke", "email": "dev@chrismielke.com"},
         {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"}
     ],
     "license": "BSD-2-Clause",
