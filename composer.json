@@ -1,8 +1,8 @@
 {
-    "name": "milkdog/assert",
+    "name": "transitscreen/assert",
     "description": "Thin assertion library for input validation in business models. Slight tweaks from beberlei/assert",
     "authors": [
-        {"name": "Chris Mielke", "email": "dev@chrismielke.com"},
+        {"name": "Team TransitScreen", "email": "info@transitscreen.com"},
         {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"}
     ],
     "license": "BSD-2-Clause",
